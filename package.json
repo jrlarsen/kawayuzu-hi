@@ -1,0 +1,7 @@
+{
+  "name": "kawayuzu-cli",
+  "version": "1.0.0",
+  "bin": {
+    "kawayuzu-hi": "index.js"
+  }
+}
