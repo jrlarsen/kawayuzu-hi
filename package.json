@@ -9,6 +9,14 @@
     "Unserious"
   ],
   "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "jrlarsen/kawayuzu-cli",
+  "author": {
+    "name": "John Larsen",
+    "email": "kawayuzu.npm@room51.co.uk",
+    "url": "https://www.room51.co.uk"
+  },
   "bin": {
     "kawayuzu-hi": "index.js"
   },
